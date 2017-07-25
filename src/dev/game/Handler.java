@@ -1,9 +1,9 @@
 package dev.game;
 
-import dev.game.tilegame.Game;
-import dev.game.tilegame.gfx.GameCamera;
-import dev.game.tilegame.input.KeyManager;
-import dev.game.tilegame.worlds.World;
+import dev.game.tankwar.Game;
+import dev.game.tankwar.gfx.GameCamera;
+import dev.game.tankwar.input.KeyManager;
+import dev.game.tankwar.worlds.World;
 
 /**
  * Created by Fang Lai on 6/25/2017.
